@@ -3,6 +3,7 @@ Series of snippers and learning material to follow a series of the workshops dev
 
 <img align="center" width="900" height="400" src="https://img.deusm.com/informationweek/November19/datascience-pdusit-stock.jpg">
 
+***
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
